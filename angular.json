@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-cidr-calculator"
+  "defaultProject": "ng-cidr-calculator",
+  "cli": {
+    "analytics": "32a8de84-26f9-4bb0-9d12-ee70cd521e8c"
+  }
 }
